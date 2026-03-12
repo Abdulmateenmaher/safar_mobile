@@ -1,0 +1,363 @@
+{
+  "@@locale": "en",
+  "appTitle": "Safar",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "welcomeTitle": "Welcome to Safar",
+  "@welcomeTitle": {
+    "description": "Welcome screen title"
+  },
+  "welcomeSubtitle": "Discover the beauty of Afghanistan",
+  "@welcomeSubtitle": {
+    "description": "Welcome screen subtitle"
+  },
+  "getStarted": "Get Started",
+  "@getStarted": {
+    "description": "Get started button"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button"
+  },
+  "register": "Register",
+  "@register": {
+    "description": "Register button"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link"
+  },
+  "dontHaveAccount": "Don't have an account?",
+  "@dontHaveAccount": {
+    "description": "Don't have account text"
+  },
+  "alreadyHaveAccount": "Already have an account?",
+  "@alreadyHaveAccount": {
+    "description": "Already have account text"
+  },
+  "orContinueWith": "Or continue with",
+  "@orContinueWith": {
+    "description": "Or continue with text"
+  },
+  "googleSignIn": "Google",
+  "@googleSignIn": {
+    "description": "Google sign in button"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search tab label"
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "description": "Favorites tab label"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile tab label"
+  },
+  "welcomeBack": "Welcome Back",
+  "@welcomeBack": {
+    "description": "Welcome back text"
+  },
+  "explorer": "Explorer",
+  "@explorer": {
+    "description": "Explorer title"
+  },
+  "popularPlaces": "Popular Places",
+  "@popularPlaces": {
+    "description": "Popular places section title"
+  },
+  "allPlaces": "All Places",
+  "@allPlaces": {
+    "description": "All places section title"
+  },
+  "seeAll": "See All",
+  "@seeAll": {
+    "description": "See all button"
+  },
+  "services": "Services",
+  "@services": {
+    "description": "Services section title"
+  },
+  "hotels": "Hotels",
+  "@hotels": {
+    "description": "Hotels service"
+  },
+  "restaurants": "Restaurants",
+  "@restaurants": {
+    "description": "Restaurants service"
+  },
+  "atms": "ATMs",
+  "@atms": {
+    "description": "ATMs service"
+  },
+  "medical": "Medical",
+  "@medical": {
+    "description": "Medical service"
+  },
+  "transport": "Transport",
+  "@transport": {
+    "description": "Transport service"
+  },
+  "banks": "Banks",
+  "@banks": {
+    "description": "Banks service"
+  },
+  "travel": "Travel",
+  "@travel": {
+    "description": "Travel service"
+  },
+  "more": "More",
+  "@more": {
+    "description": "More services"
+  },
+  "nearbyServices": "Nearby Services",
+  "@nearbyServices": {
+    "description": "Nearby services section"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location label"
+  },
+  "directions": "Directions",
+  "@directions": {
+    "description": "Directions button"
+  },
+  "reviews": "Reviews",
+  "@reviews": {
+    "description": "Reviews section title"
+  },
+  "writeReview": "Write a Review",
+  "@writeReview": {
+    "description": "Write review button"
+  },
+  "shareYourExperience": "Share your experience...",
+  "@shareYourExperience": {
+    "description": "Review placeholder"
+  },
+  "submitReview": "Submit Review",
+  "@submitReview": {
+    "description": "Submit review button"
+  },
+  "reviewSubmitted": "Review submitted!",
+  "@reviewSubmitted": {
+    "description": "Review submitted message"
+  },
+  "about": "About",
+  "@about": {
+    "description": "About section title"
+  },
+  "amenities": "Amenities",
+  "@amenities": {
+    "description": "Amenities section title"
+  },
+  "menu": "Menu",
+  "@menu": {
+    "description": "Menu section title"
+  },
+  "rooms": "Rooms",
+  "@rooms": {
+    "description": "Rooms section title"
+  },
+  "bookNow": "Book Now",
+  "@bookNow": {
+    "description": "Book now button"
+  },
+  "available": "Available",
+  "@available": {
+    "description": "Available status"
+  },
+  "unavailable": "Unavailable",
+  "@unavailable": {
+    "description": "Unavailable status"
+  },
+  "open": "Open",
+  "@open": {
+    "description": "Open status"
+  },
+  "closed": "Closed",
+  "@closed": {
+    "description": "Closed status"
+  },
+  "featured": "Featured",
+  "@featured": {
+    "description": "Featured badge"
+  },
+  "price": "Price",
+  "@price": {
+    "description": "Price label"
+  },
+  "contact": "Contact",
+  "@contact": {
+    "description": "Contact section title"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings title"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language setting"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme setting"
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Dark mode option"
+  },
+  "lightMode": "Light Mode",
+  "@lightMode": {
+    "description": "Light mode option"
+  },
+  "systemMode": "System",
+  "@systemMode": {
+    "description": "System mode option"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications setting"
+  },
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {
+    "description": "Privacy policy link"
+  },
+  "termsOfService": "Terms of Service",
+  "@termsOfService": {
+    "description": "Terms of service link"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button"
+  },
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "Edit profile button"
+  },
+  "saveChanges": "Save Changes",
+  "@saveChanges": {
+    "description": "Save changes button"
+  },
+  "searchPlaces": "Search places...",
+  "@searchPlaces": {
+    "description": "Search places placeholder"
+  },
+  "advancedFilters": "Advanced Filters",
+  "@advancedFilters": {
+    "description": "Advanced filters title"
+  },
+  "category": "Category",
+  "@category": {
+    "description": "Category filter"
+  },
+  "distance": "Distance",
+  "@distance": {
+    "description": "Distance filter"
+  },
+  "rating": "Rating",
+  "@rating": {
+    "description": "Rating filter"
+  },
+  "apply": "Apply",
+  "@apply": {
+    "description": "Apply button"
+  },
+  "clear": "Clear",
+  "@clear": {
+    "description": "Clear button"
+  },
+  "noResults": "No results found",
+  "@noResults": {
+    "description": "No results message"
+  },
+  "suggestedPlaces": "Suggested Places",
+  "@suggestedPlaces": {
+    "description": "Suggested places section"
+  },
+  "recentSearches": "Recent Searches",
+  "@recentSearches": {
+    "description": "Recent searches section"
+  },
+  "trending": "Trending",
+  "@trending": {
+    "description": "Trending section"
+  },
+  "views": "Views",
+  "@views": {
+    "description": "Views label"
+  },
+  "saved": "Saved",
+  "@saved": {
+    "description": "Saved label"
+  },
+  "shared": "Shared",
+  "@shared": {
+    "description": "Shared label"
+  },
+  "bestTime": "Best Time",
+  "@bestTime": {
+    "description": "Best time label"
+  },
+  "wifi": "WiFi",
+  "@wifi": {
+    "description": "WiFi amenity"
+  },
+  "parking": "Parking",
+  "@parking": {
+    "description": "Parking amenity"
+  },
+  "pool": "Pool",
+  "@pool": {
+    "description": "Pool amenity"
+  },
+  "gym": "Gym",
+  "@gym": {
+    "description": "Gym amenity"
+  },
+  "spa": "Spa",
+  "@spa": {
+    "description": "Spa amenity"
+  },
+  "roomService": "Room Service",
+  "@roomService": {
+    "description": "Room service amenity"
+  },
+  "airConditioning": "A/C",
+  "@airConditioning": {
+    "description": "Air conditioning amenity"
+  },
+  "bar": "Bar",
+  "@bar": {
+    "description": "Bar amenity"
+  },
+  "laundry": "Laundry",
+  "@laundry": {
+    "description": "Laundry amenity"
+  },
+  "perNight": "/night",
+  "@perNight": {
+    "description": "Per night label"
+  },
+  "guests": "guests",
+  "@guests": {
+    "description": "Guests label"
+  }
+}
