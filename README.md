@@ -201,7 +201,7 @@ lib/
 
 ```bash
 # Clone & setup
-git clone https://github.com/yourusername/safar_mobile.git
+git clone https://github.com/Abdulmateenmaher/safar_mobile.git
 cd safar_mobile
 
 # Install dependencies
