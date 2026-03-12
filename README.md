@@ -47,7 +47,7 @@ Safar Mobile is a modern, feature-rich Flutter application designed to showcase 
 - **Bundle Size**: <50MB (Android APK)
 
 <div align="center">
-  <img src="assets/images/readme/torism_place_top.jpeg" alt="Tourism Places" width="100%" style="border-radius: 12px; margin: 20px 0;" />
+  <img src="assets/images/readme/torism_place_top.jpeg" alt="Tourism Places" width="280" style="border-radius: 12px; margin: 20px 0;" />
 </div>
 
 ---
@@ -78,7 +78,7 @@ lib/
 ```
 
 <div align="center">
-  <img src="assets/images/readme/tourism_place_bottom.jpeg" alt="Tourism Places" width="100%" style="border-radius: 12px; margin: 20px 0;" />
+  <img src="assets/images/readme/tourism_place_bottom.jpeg" alt="Tourism Places" width="280" style="border-radius: 12px; margin: 20px 0;" />
 </div>
 
 ---
@@ -111,7 +111,7 @@ lib/
 </table>
 
 <div align="center">
-  <img src="assets/images/readme/service_top.jpeg" alt="Services" width="100%" style="border-radius: 12px; margin: 20px 0;" />
+  <img src="assets/images/readme/service_top.jpeg" alt="Services" width="280" style="border-radius: 12px; margin: 20px 0;" />
 </div>
 
 
@@ -123,7 +123,7 @@ lib/
 ### Core Technologies
 
 <div align="center">
-  <img src="assets/images/readme/service_bottom.jpeg" alt="Service Features" width="100%" style="border-radius: 12px; margin: 20px 0;" />
+  <img src="assets/images/readme/service_bottom.jpeg" alt="Service Features" width="280" style="border-radius: 12px; margin: 20px 0;" />
 </div>
 
 | Category | Technology |
